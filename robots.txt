@@ -1,3 +1,4 @@
 # robotstxt.org/
 
-User-agent: *
+User-agent: Buffbob.com
+and then boogersx
