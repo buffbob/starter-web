@@ -9,3 +9,4 @@ Sample website with plenty of files for demos
 oyh boogers
 
 boogers are tastier than slugs
+SALTY_PERFECT
